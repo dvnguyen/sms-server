@@ -1,1 +1,4 @@
-# sms-server
+## Running the server
+
+
+    $ node server.js
